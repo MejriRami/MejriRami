@@ -1,16 +1,26 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mejri Rami
-==================================================================================================================================
+### Rami Mejri — Applied AI Engineer
 
-Junior Software engineer
-------------------------
+I design and ship AI tools that work inside real company systems: agents with tools, document answers with sources, and the guardrails and evaluations that make them trustworthy. 2 years building and running business applications in production (HR, quality, logistics) for a 9-subsidiary industrial group.
 
-Recently graduated as a Software Engineer from the National Engineering School of Carthage (ENICarthage) in Tunisia. I enjoy exploring new technologies and building software solutions. Currently, I'm focused on learning more about full-stack development, data science, and data engineering.
+**Ingénieur logiciel orienté IA appliquée** : agents multi-outils, RAG, systèmes multi-agents, serveurs MCP, évaluation et garde-fous.
 
-* 🌍  I'm based in Tunisia
-* ✉️  You can contact me at [ramimejri76@gmail.com](mailto:ramimejri76@gmail.com)
-* 🧠  I'm learning Django and React
+---
 
-### Skills
+#### Selected projects
+
+| Project | What it shows |
+|---|---|
+| [**advisor-voice-coach**](https://github.com/MejriRami/advisor-voice-coach) | Voice client simulator to train insurance advisors, plus a document assistant that answers **with citations or hands off to a human**. Measured on an evaluation set: 100 % precision when answering, 4/4 out-of-scope questions handed off, 0 wrong handoffs (90.9 % precision even with no LLM). |
+| [**pfmea-consolidation-agent**](https://github.com/MejriRami/pfmea-consolidation-agent) | Multi-agent system (mapper, normalizer, themer, adjudicator) that consolidated 719 quality-analysis rows from 5 plants into a 192-row standard, replayed against a hand-made answer key with go/no-go gates. Human-only approval, MCP server, web chat. |
+| [**enterprise-mcp-server**](https://github.com/MejriRami/enterprise-mcp-server) | MCP server exposing **115 typed tools** over 5 company databases (org chart, KPIs, action plans, suppliers…) with a read-only SQL validator, per-agent tool profiles and tested guardrails. |
+| [**hr-assistant-agent**](https://github.com/MejriRami/hr-assistant-agent) | Tool-calling HR assistant for a multi-country HR platform. Identity comes from the verified token; every tool enforces country and site scope; tests prove the boundary holds, even when the model asks for another tenant. |
+
+*Projects built at work are published anonymized, with fictional data.*
+
+#### Stack
+Python · Node.js · OpenAI API & Agents SDK · MCP · RAG / embeddings / pgvector · FastAPI · Express · PostgreSQL · React · Docker · GitHub Actions · Azure
+
+#### Tools I've used
 
 
 <p align="left">
@@ -18,7 +28,10 @@ Recently graduated as a Software Engineer from the National Engineering School o
 </p>
 
 
-### Socials
+#### Contact
+
+📫 [ramimejri76@gmail.com](mailto:ramimejri76@gmail.com) · Tunis, Tunisia
+
 
 <p align="left"> <a href="https://www.github.com/MejriRami" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rami-mejri-/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
