@@ -15,7 +15,9 @@ I design and ship AI tools that work inside real company systems: agents with to
 | [**enterprise-mcp-server**](https://github.com/MejriRami/enterprise-mcp-server) | MCP server exposing **115 typed tools** over 5 company databases (org chart, KPIs, action plans, suppliers…) with a read-only SQL validator, per-agent tool profiles and tested guardrails. |
 | [**hr-assistant-agent**](https://github.com/MejriRami/hr-assistant-agent) | Tool-calling HR assistant for a multi-country HR platform. Identity comes from the verified token; every tool enforces country and site scope; tests prove the boundary holds, even when the model asks for another tenant. |
 
-▶ Demo videos (French, ~2 min each): [Coach Conseiller](https://github.com/MejriRami/advisor-voice-coach/releases/download/demo/1_Coach_Conseiller.mp4) · [PFMEA agent](https://github.com/MejriRami/pfmea-consolidation-agent/releases/download/demo/2_Agent_PFMEA.mp4) · [MCP server](https://github.com/MejriRami/enterprise-mcp-server/releases/download/demo/3_Serveur_MCP.mp4) · [HR assistant](https://github.com/MejriRami/hr-assistant-agent/releases/download/demo/4_Assistant_RH.mp4)
+▶ **Full platform tours** (French narration, anonymized copies of production apps): [HR platform, 9 subsidiaries, with its AI assistant](https://github.com/MejriRami/MejriRami/releases/download/platforms/Plateforme_RH.mp4) · [Quality-audit platform, automatic monthly planning, AI assistant and CAR coach](https://github.com/MejriRami/MejriRami/releases/download/platforms/Plateforme_Audit.mp4)
+
+▶ Project demos (French, ~2 min each): [Coach Conseiller](https://github.com/MejriRami/advisor-voice-coach/releases/download/demo/1_Coach_Conseiller.mp4) · [PFMEA agent](https://github.com/MejriRami/pfmea-consolidation-agent/releases/download/demo/2_Agent_PFMEA.mp4) · [MCP server](https://github.com/MejriRami/enterprise-mcp-server/releases/download/demo/3_Serveur_MCP.mp4)
 
 *Projects built at work are published anonymized, with fictional data.*
 
