@@ -9,7 +9,17 @@ I build business applications end to end, from requirements and data model to de
 * 🌍 Based in Tunisia
 * ✉️ [ramimejri76@gmail.com](mailto:ramimejri76@gmail.com)
 
-▶ [Demo videos of some of my work](https://mejrirami.github.io/demos/)
+### Projects
+
+| Project | Description | Links |
+|---|---|---|
+| **HR platform** | Multi-country HR application: employees, approval workflows, attendance, leave, encrypted payroll, org chart, statistics, and a built-in AI assistant. Node.js, React, PostgreSQL. | [Code](https://github.com/MejriRami/hr-platform) · [Video](https://mejrirami.github.io/demos/#hr) |
+| **Quality audit platform** | Audit planning and execution (VDA 6.3, IATF 16949, ISO 14001), rule-based monthly planning, corrective actions, auditee portal, AI assistant and coach. FastAPI, React, PostgreSQL. | [Code](https://github.com/MejriRami/quality-audit-platform) · [Video](https://mejrirami.github.io/demos/#audit) |
+| **Advisor voice coach** | Voice-based client simulator for training, plus a document assistant that answers with sources or hands off to a human. | [Code](https://github.com/MejriRami/advisor-voice-coach) · [Video](https://mejrirami.github.io/demos/#coach) |
+| **PFMEA multi-agent system** | Agents that consolidate process FMEA files from several sites into one standard and generate new ones from validated content. | [Code](https://github.com/MejriRami/pfmea-consolidation-agent) · [Video](https://mejrirami.github.io/demos/#pfmea) |
+| **Enterprise MCP server** | One governed access point for AI assistants to company data, with typed tools and server-side guardrails. | [Code](https://github.com/MejriRami/enterprise-mcp-server) · [Video](https://mejrirami.github.io/demos/#mcp) |
+| **HR assistant agent** | Tool-calling assistant that answers HR questions within each user's access scope. | [Code](https://github.com/MejriRami/hr-assistant-agent) |
+
 
 ### Skills
 
