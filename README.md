@@ -1,32 +1,17 @@
-### Rami Mejri — Applied AI Engineer
+### Hi, I'm Rami Mejri
 
-I design and ship AI tools that work inside real company systems: agents with tools, document answers with sources, and the guardrails and evaluations that make them trustworthy. 2 years building and running business applications in production (HR, quality, logistics) for a 9-subsidiary industrial group.
+**Software Engineer · Full-stack & AI**
 
-**Ingénieur logiciel orienté IA appliquée** : agents multi-outils, RAG, systèmes multi-agents, serveurs MCP, évaluation et garde-fous.
+I build business applications end to end, from requirements and data model to deployment and support, and I add AI where it helps: assistants that use tools, answers grounded in documents, and the tests and guardrails that keep them reliable.
 
----
+* 🛠️ I work with Python, Node.js, React and PostgreSQL, on Azure
+* 🤖 Interested in LLM agents, RAG, MCP and evaluation
+* 🌍 Based in Tunisia
+* ✉️ [ramimejri76@gmail.com](mailto:ramimejri76@gmail.com)
 
-#### Selected projects
+▶ [Demo videos of some of my work](https://mejrirami.github.io/demos/)
 
-| Project | What it shows |
-|---|---|
-| [**hr-platform**](https://github.com/MejriRami/hr-platform) | Full-stack multi-country HR platform (Node.js, React, PostgreSQL schema per country): employees, approval workflows, attendance, AES-256-GCM encrypted payroll with a tested calculation engine, org chart, and a scoped AI assistant. [Video](https://mejrirami.github.io/demos/#hr) |
-| [**quality-audit-platform**](https://github.com/MejriRami/quality-audit-platform) | Full-stack quality-audit platform (FastAPI, React): VDA 6.3 / IATF 16949 / ISO 14001 audits, a rule engine that plans audits monthly (P1–P11) and explains why, corrective actions with escalation, an auditee portal with an AI 5-Whys coach. [Video](https://mejrirami.github.io/demos/#audit) |
-| [**advisor-voice-coach**](https://github.com/MejriRami/advisor-voice-coach) | Voice client simulator to train insurance advisors, plus a document assistant that answers **with citations or hands off to a human**. Measured on an evaluation set: 100 % precision when answering, 4/4 out-of-scope questions handed off, 0 wrong handoffs (90.9 % precision even with no LLM). |
-| [**pfmea-consolidation-agent**](https://github.com/MejriRami/pfmea-consolidation-agent) | Multi-agent system (mapper, normalizer, themer, adjudicator) that consolidated 719 quality-analysis rows from 5 plants into a 192-row standard, replayed against a hand-made answer key with go/no-go gates. Human-only approval, MCP server, web chat. |
-| [**enterprise-mcp-server**](https://github.com/MejriRami/enterprise-mcp-server) | MCP server exposing **115 typed tools** over 5 company databases (org chart, KPIs, action plans, suppliers…) with a read-only SQL validator, per-agent tool profiles and tested guardrails. |
-| [**hr-assistant-agent**](https://github.com/MejriRami/hr-assistant-agent) | Tool-calling HR assistant for a multi-country HR platform. Identity comes from the verified token; every tool enforces country and site scope; tests prove the boundary holds, even when the model asks for another tenant. |
-
-▶ **Full platform tours:** [HR platform with its AI assistant](https://mejrirami.github.io/demos/#hr) · [Quality-audit platform, automatic monthly planning, AI assistant and CAR coach](https://mejrirami.github.io/demos/#audit)
-
-▶ Project demos (~2 min each): [Coach Conseiller](https://mejrirami.github.io/demos/#coach) · [PFMEA agent](https://mejrirami.github.io/demos/#pfmea) · [MCP server](https://mejrirami.github.io/demos/#mcp)
-
-*Projects built at work are published anonymized, with fictional data.*
-
-#### Stack
-Python · Node.js · OpenAI API & Agents SDK · MCP · RAG / embeddings / pgvector · FastAPI · Express · PostgreSQL · React · Docker · GitHub Actions · Azure
-
-#### Tools I've used
+### Skills
 
 
 <p align="left">
@@ -34,10 +19,6 @@ Python · Node.js · OpenAI API & Agents SDK · MCP · RAG / embeddings / pgvect
 </p>
 
 
-#### Contact
-
-📫 [ramimejri76@gmail.com](mailto:ramimejri76@gmail.com) · Tunis, Tunisia
-
+### Socials
 
 <p align="left"> <a href="https://www.github.com/MejriRami" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rami-mejri-/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
